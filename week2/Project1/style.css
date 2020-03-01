@@ -1,0 +1,15 @@
+h1 {
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p {height: "25px"; 
+}
+<p class="center uppercase">You might also like</p>
+a:link {
+    text-decoration: none;
+  }
