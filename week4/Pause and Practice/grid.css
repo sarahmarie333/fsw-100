@@ -1,0 +1,49 @@
+.div-nav {
+width: 100%;
+height: 100px;
+}
+
+article {
+ display: grid;
+ grid column-gap: 20px;
+ grid-template-columns: 25% 25% 25% 25%;
+ grid-template-rows: 8vw 8vw 8vw 8vw;
+ }
+
+#pinkbox {
+ grid-column: span 4;
+ width: 100%;
+ height: 100%;
+ background-color:#F5C6D6;
+}
+
+#darkpinkbox1,
+#darkpinkbox2, 
+#darkpinkbox3, 
+#darkpinkbox4 {
+ width: 100%;
+ height: 100%;
+ background-color:#EE2E84;
+}
+
+#bluebox1, 
+#bluebox2 {
+ grid-column: span 2;   
+ width: 100%;
+ height: 100%;
+ background-color: #85CFD8;
+}
+
+#greenbox {
+    grid-column: span 3;   
+    width: 100%;
+    height: 100%;
+    background-color: #8DC63F;
+}
+
+#orangebox {
+    width: 100%;
+    height: 100%;
+    background-color: #E76E34; 
+}
+
