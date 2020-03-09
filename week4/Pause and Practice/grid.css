@@ -5,7 +5,7 @@ height: 100px;
 
 article {
  display: grid;
- grid column-gap: 20px;
+ grid-column-gap: 20px;
  grid-template-columns: 25% 25% 25% 25%;
  grid-template-rows: 8vw 8vw 8vw 8vw;
  }
