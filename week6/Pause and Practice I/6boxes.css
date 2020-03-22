@@ -1,0 +1,84 @@
+.red {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+  }
+.orange {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid orange;
+    padding: 50px;
+    margin: 20px;
+  }
+ .yellow {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid yellow;
+    padding: 50px;
+    margin: 20px;
+  }
+   .green {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+   .blue {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+  }
+  .indigo {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid indigo;
+    padding: 50px;
+    margin: 20px;
+  }
+  .red:hover {
+    color: red;
+    font-size: larger;
+    font-family: cursive;
+    opacity: 55%;
+  }
+  .orange:hover {
+    color: orange;
+    border: none;
+    font-size: 150%;
+  }
+  .yellow:hover {
+    color: yellow;
+    position: fixed;
+    background: tan;
+   
+  } 
+  .green:hover {
+    color: green;
+    box-shadow: 5px 10px lawngreen;
+    font-family: monospace;
+  }
+  .blue:hover {
+    color: blue;
+    border: 30px solid lightblue;
+    padding: 30px; 
+    text-decoration: line-through;
+  }
+  .indigo:hover {
+    color: indigo;
+    height: 300px;
+    width: 300px;
+    text-decoration: underline;
+  }
+  
+.body {
+  max-width: 500px;
+  margin: auto;
+}
+figure {
+    margin: 0;
+}
