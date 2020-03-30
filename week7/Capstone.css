@@ -17,10 +17,13 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Spicy Rice', cursive;
+    transition: width 2s, height 4s;
   }
   
   li a:hover {
     background-color:gainsboro;
+    width: 80px;
+    height: 80px;
   }
   .body {
  text-align: right;
